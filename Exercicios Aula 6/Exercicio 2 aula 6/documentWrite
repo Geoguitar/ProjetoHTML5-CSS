@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Document.Write</title>
+      <script>
+      	var valorA = 10;
+      	var valorB = 2;
+      	var valorC = 3;
+      	
+      	document.write(valorA % valorB);
+      	document.write("<br/>"+ (valorA % valorB * valorC));
+      	document.write("<br/>"+ (valorA - valorB * valorC));
+      	document.write("<br/>"+ ((valorA - valorB) * valorC));
+      	document.write("<br/>"+ (valorA + valorB - valorC));
+      
+      </script>
+    </head>
+    <body>
+<!----
+(A % B)
+A % B * C
+A - B *C
+(A - B) * C
+A + B - C
+----->
+
+    </body>
+</html>

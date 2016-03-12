@@ -1,0 +1,20 @@
+ #gradiente1 {
+                height:50px;
+                width:300px;
+                background-image:linear-gradient(to bottom, blue, black);
+            }
+#gradiente2 {
+                height:50px;
+                width:300px;
+                background-image:linear-gradient(to right, green, red);
+            }
+#gradiente3 {
+                height:50px;
+                width:300px;
+                background-image:linear-gradient(60deg, purple, yellow);
+            }
+#gradiente4 {
+                height:50px;
+                width:300px;
+                background-image:linear-gradient(60deg, blue, black, red, green);
+            }

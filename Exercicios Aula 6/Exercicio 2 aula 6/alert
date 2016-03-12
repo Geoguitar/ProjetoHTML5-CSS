@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Alert</title>
+      <script>
+      	var valorA = 20;
+      	var valorB = 15;
+      	var valorC = 3;
+      	
+      	alert((valorA-valorB)/valorC);
+      	alert(valorA-valorB/valorC);
+      	alert(valorA*valorB/valorC);
+      	alert(valorA*(valorB/valorC));
+      	alert(valorA+valorB-valorC);
+      </script>
+    </head>
+    <body>
+<!-------
+(A - B) / C
+A - B / C
+A * B / C
+A * (B / C)
+A + B - C
+------->
+
+    </body>
+</html>

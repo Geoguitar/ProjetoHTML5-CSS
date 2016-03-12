@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Funcao1</title>
+      <script>
+      
+      function imprimaAlert(){
+      	
+      	alert();
+      
+      }
+      
+      </script>
+    </head>
+    <body>
+
+    </body>
+</html>
