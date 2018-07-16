@@ -1,0 +1,79 @@
+* {
+	margin: 0;
+}
+header {
+	border-style:1px, solid, #ddd;
+	background-color: #e6e4df;
+	
+	text-align: center;
+	text-shadow: 1px -1px 8px black;
+	box-shadow: 1px, #b4e88b;
+	
+	padding: 5px 10px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family:  Arial, Sen-serife, Helvetica;
+	background-color: #ccc;
+}
+
+.container {
+	padding: 2px 0;
+}
+
+.row {
+
+}
+
+
+.menu {
+	padding: 20px 0;
+}
+
+.caixa-menu {
+	color: #ccc;
+	
+}
+
+.lista-menu {
+	list-style: list-unstyled;
+}
+
+
+.lista {
+	color: green;
+	background-color: #ccc;
+		
+}
+
+.rodape {
+	background-color: #e6e4df;
+	
+	text-align: center;
+	text-shadow: 1px -1px 8px black;
+	box-shadow: 1px, #b4e88b;
+	padding: 2px 0;
+	
+	bottom:0;
+    width:100%;
+	position: absolute;
+	margin: top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
